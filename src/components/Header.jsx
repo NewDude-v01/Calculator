@@ -10,8 +10,8 @@ export default function Header({ theme, toggleTheme, isApiLive, onRefreshApi, is
             <Zap size={22} />
           </div>
           <div>
-            <h1 className="brand-title">OmniCalc</h1>
-            <div className="brand-subtitle">Smart Calculation &amp; Conversion Suite</div>
+            <h1 className="brand-title">Joval Calculator</h1>
+            <div className="brand-subtitle">Calculator na Pampogi &amp; Converter</div>
           </div>
         </div>
 
