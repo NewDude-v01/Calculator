@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Calculator/',
+  base: '/Calculator/', // Replace 'calculator' with your exact GitHub repo name if different
 })
